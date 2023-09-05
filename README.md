@@ -1,1 +1,1 @@
-# teste2
+Este repositório é um repositório de teste.
